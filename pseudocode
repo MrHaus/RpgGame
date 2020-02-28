@@ -1,0 +1,73 @@
+Ashton Haus
+CS 30 Period 4
+Pseudocode Assignment
+
+
+if health>0:
+ move freely
+if health<=0:
+ game ends
+
+  Input the item you want to use
+    If item is used:
+     delete the item from inventory
+    Else:
+    print"item not in inventory
+  End use
+
+  Input the item you want to pick up
+   If item in near:
+    Add the item to your inventory
+    delete the item from area
+  Else:
+  print"item not in area"
+  End get
+
+  print inventory when space bar is pressed
+   items:
+    health items()
+    weapons()
+  end inventory
+
+  begin attack:
+  print "you are attacked"
+  while enemy's health>0
+
+  Input"Attack"
+  if input is attack:
+   randomly generates to see if you attack or not
+
+    If you get attack, you attack enemy
+     removes enemies health when attacked
+     remove weapon used to attack from inventory
+     use weapon "a"
+      "a" is removed from inventory
+     use weapon "b"
+      "b" is removed from inventory
+    print"You defeated the enemy with weapon()!"
+    Else:
+     print"You miss"
+     lose random weapon and half of health
+
+  Input is Heal:
+   use one random health item, removing from inventory
+   add heal to health
+
+  Elif:Your health<0
+   input:"You died, Game Over!"
+    game ends, restarts from beginning
+
+  Else: cannot heal when health>1
+   Print"Cannot heal"
+   lose health item even when not used
+
+  When either inventory list is empty you died
+   print"game over"
+
+   Begin Movement:
+    while health>0
+
+    go forwards: Move forward If area is in backwards
+    go backwards: Move If area is in forwards
+   If Health<=0
+   End movement
