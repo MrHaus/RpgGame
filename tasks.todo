@@ -1,0 +1,14 @@
+Tasks:
+     ✔ create README file @done(2020-03-09 13:42) @project(Tasks)
+     ☐ create changelog
+     ☐ create main game file
+     ✔ upload files to Github @done(2020-03-09 13:42) @project(Tasks)
+
+Game:
+    ☐ Think of name for the game
+    ☐ Think of how map will look
+
+Classes:
+    ☐ Inventory
+    ☐ Enemies
+    ☐ Map
