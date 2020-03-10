@@ -6,4 +6,4 @@
 >Python 3.7 is needed to play this game. Python 3.7 to install Python.
 
 **Run the Program**
-https://github.com/MrHaus/RpgGame
+https://github.com/MrHaus/RpgGame/blob/master/maingame.py
