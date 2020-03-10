@@ -1,9 +1,9 @@
 # Rpg Game
 
->>Python text-based adventure
+>Python text-based adventure
 
->**Installation**
->> Python 3.7 is needed to play this game. Python 3.7 to install Python.
+**Installation**
+>Python 3.7 is needed to play this game. Python 3.7 to install Python.
 
->**Run the Program**
->>python RpgGame.py
+**Run the Program**
+https://github.com/MrHaus/RpgGame
