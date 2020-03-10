@@ -1,6 +1,6 @@
 # Rpg Game
 
-Python text-based adventure
+Python text-based adventure game
 
 ## Installation
 
