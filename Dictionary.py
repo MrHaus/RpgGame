@@ -67,3 +67,5 @@ print("THE INVENTORY")
 world(inventory)
 # Makes it easier to read
 print("------------------------------------------------------------------")
+
+
