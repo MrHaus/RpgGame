@@ -17,8 +17,8 @@ def world(Name):
 main_character = {"Main character": {
                   "Name": "Player",
                   "health": 10,
-                  "attack": 3,}
-}
+                  "attack": 3, }
+                  }
 
 # All the other characters in the game
 side_characters = {"Side characters": {
@@ -27,7 +27,7 @@ side_characters = {"Side characters": {
                    "Bus driver": {"Possible friend or enemy"},
                    "Airport Security": {"Roams the airport, always an enemy"},
                    "Police": {"Roams around entire world, always have gun"}},
-                  }
+                   }
 # Various locations within the world
 locations = {"Locations": {
              "Bus stop": {"In sketchy neighbourhood, allows access to bus"},
@@ -35,15 +35,15 @@ locations = {"Locations": {
              "Cemetary": {"Dangerous, where the grave robbers roam"},
              "Store front": {"Access to store, can steal items "},
              "Airport": {"Access to plane, ending of the game"}},
-}
+             }
 
-inventory = {"Inventory":{
-"Pistol": {"Total bullets left": 8},
+inventory = {"Inventory": {
+             "Pistol": {"Total bullets left": 8},
              "Knife": {"Number of knives": 3},
              "Syringe": {"health item": "Used to heal 50% health"},
              "Bandages": {"health item": "Used to heal 25% health"},
              "MedKit": {"health item": "Used to heal 100% health"}},
-}
+             }
 
 # Makes it easier to read
 print("------------------------------------------------------------------")
